@@ -1,0 +1,8 @@
+{
+  "name": "Remix لوحة متابعة أسواق العملات الرقمية والذهب",
+  "description": "منصة تداول ومتابعة مالية مستقبلية فائقة التطور لأسعار العملات الرقمية والذهب مع حاسبة أرباح وخسائر وشريط شبكة أدوات متكامل، أسسها وطورها Taha setri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
